@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Deven Vyas <vyas.deven@gmail.com>
+MAINTAINER Deven Vyas <abc@gmail.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
 
